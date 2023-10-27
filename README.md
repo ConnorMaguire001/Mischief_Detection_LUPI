@@ -1,5 +1,5 @@
 # Mischief_Detection_LUPI
-Applying a LUPI frame to the task of mischief detection 
+Applying the learning under the privleged (LUPI) frameword to RNN for the task of questionable content detection in youtube videos 
 
 ## yt_meta_data_extraction
 The code to extract metadata from youtube. 
